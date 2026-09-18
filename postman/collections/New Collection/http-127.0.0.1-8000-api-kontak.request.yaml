@@ -1,0 +1,11 @@
+$kind: http-request
+name: http://127.0.0.1:8000/api/kontak
+description: ""
+url: http://127.0.0.1:8000/api/kontak
+method: GET
+body:
+  type: json
+  content: ""
+auth:
+  type: bearer
+order: 1789475967762
